@@ -12,11 +12,9 @@ To get started with this project, clone the repository and open it in your prefe
 
 ### Usage
 
-To upload multiple files, navigate to the `upload.php` file in your web browser. 
+To upload multiple files, navigate to the `upload-files.php` file in your web browser. 
 
 Select the files you want to upload using the file input field, and click the "Upload" button.
-
-The uploaded files will be stored in the `uploads` directory.
 
 ### Built With
 
